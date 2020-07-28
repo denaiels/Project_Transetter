@@ -24,3 +24,6 @@ Users can choose between using 1 mean of transportation and faster but more expe
 | Splash Screen | Main Menu | Saved Place |
 | ----------- | ----------- | ----------- |
 | ![](/ui_prototype/splash_screen.jpg) | ![](/ui_prototype/main_menu.jpg) | ![](/ui_prototype/saved_place.jpg) |
+| Select Destination | Select Transportation | Navigation |
+| ----------- | ----------- | ----------- |
+| ![](/ui_prototype/select_destination.jpg) | ![](/ui_prototype/select_transportation.jpg) | ![](/ui_prototype/navigation.jpg) |
