@@ -1,4 +1,4 @@
-# Project_Transetter
+# Project: Transetter
 
 **Made by Team:**
 1. Albert Lilian Thamson (2201754412)
