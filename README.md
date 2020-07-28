@@ -10,6 +10,8 @@
 
 **Description:**
 
+Transetter is my final project for the Software Engineering course in my Semester 4 of Computer Science Major at BINUS University.
+
 Transetter is an application that focuses on transportation. Transetter is an application that has a unique feature that other transportation apps don’t have, that is, Transetter can order multiple means of transportation to get the user to the destination that they want. Usually, a transportation app, mainly the ride ordering apps, only provide one mean of transportation from location to the destination, such as Gojek where to get from point A to point B users can only choose 1 mean of transportation, either it is Go-Ride or Go-Car. Transetter gives its users the opportunity to choose multiple means of transportation to get from point A to point B, C, D, etc. For example, if you want to go from point A to point Z, then after setting the location and destination on the app, the app will provide choices for the users to choose. The choices are the routes that will be taken by the user. On every route choice, there can be multiple means of transportation and multiple stops before reaching the final destination, and there will also be the details on distance, estimated time of arrival (ETA), and price. An example of the simple choices from point A to destination point Z is as follows:
 
 Choice 1 : Distance 3.8 km, ETA: 13 minutes, Total price Rp25.000,-
